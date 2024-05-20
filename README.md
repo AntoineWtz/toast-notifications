@@ -18,7 +18,7 @@ The toast notification system includes functionalities for displaying success, e
 
 ## Demo
 
-https://antoinewtz.github.io/toast-notifications/
+[Demo Link](https://antoinewtz.github.io/toast-notifications/)
 
 ## Technologies Used
 
